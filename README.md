@@ -1,0 +1,2 @@
+# chatgpt-model
+for personal 
